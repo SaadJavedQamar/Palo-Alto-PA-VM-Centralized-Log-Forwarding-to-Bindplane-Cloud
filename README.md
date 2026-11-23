@@ -1,0 +1,1 @@
+# Palo-Alto-PA-VM-Centralized-Log-Forwarding-to-Bindplane-Cloud
